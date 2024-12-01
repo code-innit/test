@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    font: 1em sans-serif;
+    position: relative;
+}
+h1{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
